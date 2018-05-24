@@ -1,4 +1,4 @@
-1¡¢ ¹Ù·½Õ¾µã: http://releases.ubuntu.com/
+1ã€ å®˜æ–¹ç«™ç‚¹: http://releases.ubuntu.com/
               http://cdimages.ubuntu.com/
 
-2¡¢¹úÄÚ¾µÏñÕ¾µã£ºintitle:¿ªÔ´¾µÏñÕ¾µã inurl:mirrors 
+2ã€å›½å†…é•œåƒç«™ç‚¹ï¼šintitle:å¼€æºé•œåƒç«™ç‚¹ inurl:mirrors 
