@@ -1,4 +1,4 @@
 1、 官方站点: http://releases.ubuntu.com/
               http://cdimages.ubuntu.com/
 
-2、 国内镜像站点：intitle:开源镜像站点 inurl:mirrors 
+2、 国内镜像站点：intitle:开源镜像站点 inurl:mirrors
