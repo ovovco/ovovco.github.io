@@ -1,0 +1,34 @@
+body {
+  background-color:#081029;
+  overflow: hidden;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+svg{
+  width:100%;
+  height:100%;
+  visibility:hidden;
+ 
+}
+
+.particle, .shape{
+  mix-blend-mode:soft-light
+}
+
+#dot{
+  mix-blend-mode:screen;
+}
+
+text{
+  font-family:Antic, sand-serif;
+  font-size:54px;
+  letter-spacing:-1px;
+}
